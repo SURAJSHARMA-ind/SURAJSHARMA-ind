@@ -13,11 +13,8 @@
 
 🤝 I’m looking for help with finding opportunities to contribute to open-source projects and expand my knowledge in advanced JavaScript frameworks.
 
-🌱 I’m currently learning GraphQL and its integration with React to build efficient and scalable APIs.
-
 💬 Ask me about best practices in responsive web design, optimizing website performance, or creating seamless user experiences.
 
-⚡ Fun fact: I am a self-proclaimed coffee enthusiast and love experimenting with different brewing methods to achieve the perfect cup of joe.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suraj__s99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-sharma-43a65a1a5/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SurajSharmadelhi)
