@@ -9,11 +9,11 @@
 
 
 # 💫 About Me
-👯 I’m looking to collaborate on exciting front-end web development projects that involve creating immersive user interfaces and implementing cutting-edge design trends.
+👋 Hey! I'm Suraj Sharma, a 3rd-year CSE student passionate about learning full-stack development! 🚀
 
-🤝 I’m looking for help with finding opportunities to contribute to open-source projects and expand my knowledge in advanced JavaScript frameworks.
+👨‍💻 I'm diving into tech, learning how to create websites and apps that people love to use. From how they look to how they work, I'm exploring it all!
 
-💬 Ask me about best practices in responsive web design, optimizing website performance, or creating seamless user experiences.
+🌟 Always curious and eager to learn, I'm excited to collaborate and be part of cool projects. Let's connect and create something amazing together!
 
 
 ## 🌐 Socials
