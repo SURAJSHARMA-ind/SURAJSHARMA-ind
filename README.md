@@ -9,11 +9,12 @@
 
 
 # 💫 About Me
-👋 Hey! I'm Suraj Sharma, a 4th year CSE student passionate about learning full-stack development! 🚀
 
-👨‍💻 I'm diving into tech, learning how to create websites and apps that people love to use. From how they look to how they work, I'm exploring it all!
+👋🏻Hey! I'm Suraj Sharma, a 4th-year CSE student passionate about full-stack development! 🚀
 
-🌟 Always curious and eager to learn, I'm excited to collaborate and be part of cool projects. Let's connect and create something amazing together!
+👨‍💻 I'm diving into tech, learning how to create websites and apps that people love to use. From their appearance to their functionality, I'm exploring it all!
+
+🌟 Always curious and eager to learn, I'm excited to collaborate and be part of exciting projects. Let's connect and create something amazing together!
 
 
 ## 🌐 Socials
