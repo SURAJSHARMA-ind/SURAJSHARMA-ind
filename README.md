@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="150">
+</p>
+
 # 💫 About Me
 👋🏻 Hey! I'm Suraj Sharma, a 4th-year CSE student passionate about full-stack development! 🚀
 
-👨‍💻 I'm diving into tech, learning how to create websites and apps that people love to use. From their appearance to their functionality, I'm exploring it all!
+💡 Currently exploring MERN Stack, Next.js, Web3, and DevOps, always eager to learn and build something exciting. Let's connect and create together!
 
 🌟 Always curious and eager to learn, I'm excited to collaborate and be part of exciting projects. Let's connect and create something amazing together!
 
